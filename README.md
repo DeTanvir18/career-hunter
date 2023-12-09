@@ -13,5 +13,12 @@ I have made this react project for job seekers. It is a job seeking site for an 
 * The site receives data from a live server using MongoDB Database
 * The server generates all the data dynamically to the site
 
+## Packages & Technologies
+* vite-react
+* node
+* firebase
+* express
+* mongoDB etc.
+
 
 Here's the live site Link: https://assign11-career-hunt.web.app
