@@ -15,4 +15,3 @@ I have made this react project for job seekers. It is a job seeking site for an 
 
 
 Here's the live site Link: https://assign11-career-hunt.web.app
-Here's the server Link:  https://a11-career-hunt-server.vercel.app
